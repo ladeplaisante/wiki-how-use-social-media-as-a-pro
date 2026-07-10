@@ -21,7 +21,7 @@
 4. Dans le menu de gauche, sous **Comptes**, clique **Pages**, puis sélectionne la page *horizon-ia.studio*.
 5. Clique **Attribuer des personnes** (*Assign people*).
 6. Clique **Ajouter une personne** (*Add person*).
-7. Entre **diabolie@outlook.com** : `[ le courriel lié à mon compte Facebook ]`, puis **Suivant**.
+7. Entre *...* : `[ le courriel lié à mon compte Facebook ]`, puis **Suivant**.
 8. Choisis le niveau d'accès **Contrôle total** (*Full control*), puis **Suivant**.
 9. Coche la page horizon-ia.studio comme actif à gérer, puis **Suivant**.
 10. Révise et clique **Envoyer l'invitation**.

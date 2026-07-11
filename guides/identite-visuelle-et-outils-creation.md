@@ -77,7 +77,7 @@
 - **−** iPad seulement (+ Apple Pencil idéalement).
 
 ### Sketchbook
-- **Spécialité** : dessin, calques, croquis — **gratuit et très complet** (ce que tu utilises).
+- **Spécialité** : dessin, calques, croquis — **gratuit et très complet**.
 - **+** Gratuit, interface épurée, dispo sur mobile et desktop.
 - **−** Moins de pinceaux/fonctions avancées que Procreate.
 
@@ -136,9 +136,9 @@
 - **+** Conversationnel, rapide à itérer, bon avec le texte, tier gratuit.
 - **−** Style un peu « générique » vs Midjourney pour l'artistique poussé.
 
-### Ideogram ⭐ pour toi
+### Ideogram 
 - **Spécialité** : **le meilleur pour mettre du TEXTE lisible dans une image** — affiches, flyers, titres d'événement, dates.
-- **+** Idéal pour tes visuels d'événements avec un slogan/date directement dans l'image ; modes affiche/logo.
+- **+** Idéal pour les visuels d'événements avec un slogan/date directement dans l'image ; modes affiche/logo.
 - **−** Moins fort en photoréalisme et en style artistique pur.
 
 ### Adobe Firefly
@@ -162,7 +162,7 @@
 - **−** Niché ; moins bon en usage généraliste.
 
 ### Claude (ce que tu utilises ici)
-- **Spécialité** : le **texte**, la structure, et les **visuels générés par code** (HTML/CSS/SVG, mises en page, gabarits programmés — comme tes affiches). Analyse aussi les images que tu lui donnes.
+- **Spécialité** : le **texte**, la structure, et les **visuels générés par code** (HTML/CSS/SVG, mises en page, gabarits programmés — comme les affiches). Analyse aussi les images que tu lui donnes.
 - **+** Excellent pour l'écriture, la mise en page précise par code, le raisonnement visuel structuré.
 - **−** Ne génère **pas** de photos/images photoréalistes — pour ça, on passe aux outils ci-dessus.
 

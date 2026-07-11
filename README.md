@@ -9,6 +9,7 @@ Chaque guide est un fichier Markdown dans le dossier `guides/`.
 - [Outils et pratiques de productivité d'équipe (calendriers partagés)](./guides/outils-et-pratiques-de-productivite-dequipe.md)
 - [Réseaux sociaux — quand utiliser quoi](./guides/reseaux-sociaux.md)
 - [Identité visuelle & outils de création](./guides/identite-visuelle-et-outils-creation.md)
+- [Bien communiquer — les do et les don't](./guides/communication-do-et-dont.md)
 
 ## À venir
 

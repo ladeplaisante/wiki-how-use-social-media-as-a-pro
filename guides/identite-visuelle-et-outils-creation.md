@@ -3,11 +3,6 @@
 > Guide de référence : les apps, logiciels et outils IA pour créer des images, retoucher des photos/vidéos, monter des flyers et des templates.
 > Pour chaque outil : sa **spécialité** (+) et sa **faiblesse** (−). Le but : savoir **quoi ouvrir pour quelle job**.
 
-> ⚠️ **3 mises au point** avant de commencer :
-> - **Splice** (montage vidéo) — pas « Slice ».
-> - **Suno** = génération de **musique** IA, pas de vidéo (voir la section Audio IA plus bas).
-> - **Sora** (vidéo IA d'OpenAI) est **en voie de fermeture** (app fermée en avril 2026, API en septembre 2026) — je l'ai remplacé par les valeurs sûres.
-
 ---
 
 ## 1. Design tout-en-un · templates · flyers

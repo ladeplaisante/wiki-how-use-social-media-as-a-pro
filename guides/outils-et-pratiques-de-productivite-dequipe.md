@@ -1,6 +1,6 @@
 # Outils et pratiques de productivité d’équipe
 
-> Guide du wiki **horizon-ia.studio** — partager un calendrier, coordonner une petite équipe et gérer le cycle de vie d’un événement, du privé au public.
+> Guide du wiki — partager un calendrier, coordonner une petite équipe et gérer le cycle de vie d’un événement, du privé au public.
 > Dernière mise à jour : juillet 2026. Les interfaces (Google, Teamup…) changent souvent : si un écran diffère, se fier à la logique plutôt qu’au libellé exact.
 
 -----
@@ -47,7 +47,7 @@ Deux grandes familles d’outils, qu’on confond souvent :
 
 ### Recommandation
 
-Base de départ : **Google Calendar**, sur le compte Google de horizon-ia.studio (ou un compte partagé du studio). Zéro migration, ça s’intègre à Gmail et Meet, et le calendrier public s’intègre direct au site.
+Base de départ : **Google Calendar**, sur le compte Google de votre choix (ou un compte partagé). Zéro migration, ça s’intègre à Gmail et Meet, et le calendrier public s’intègre direct au site.
 
 À garder en tête pour plus tard : **Teamup**, *si* on veut laisser des partenaires ou des clients **soumettre ou consulter des dates sans leur donner de compte Google** — son système de liens par sous-calendrier est fait exactement pour ça.
 
@@ -95,13 +95,13 @@ L’idée maîtresse : **deux calendriers Google distincts**, pas un seul. Ça r
 
 ### Architecture proposée
 
-**A. `Horizon — Interne` (calendrier privé)**
+**A. - `Interne` (calendrier privé)**
 
 - Contient : la planification, les *holds* (dates réservées mais pas confirmées), la prod de contenu, la logistique, les notes.
 - Partagé entre **les associés** au niveau *« Apporter des modifications aux événements »*.
 - **Jamais rendu public.**
 
-**B. `Horizon — Public` (calendrier public)**
+**B. — `Public` (calendrier public)**
 
 - Contient : **seulement les événements confirmés**, avec titres et descriptions propres, visuel, lien d’inscription.
 - Rendu public via *« Rendre disponible publiquement → Voir tous les détails »*.
@@ -114,7 +114,7 @@ L’idée maîtresse : **deux calendriers Google distincts**, pas un seul. Ça r
 
 ### Comment créer tout ça (survol)
 
-1. Dans Google Calendar (sur ordi) → colonne de gauche → **Autres agendas → + → Créer un agenda**. Nommer `Horizon — Interne`. Répéter pour `Horizon — Public`.
+1. Dans Google Calendar (sur ordi) → colonne de gauche → **Autres agendas → + → Créer un agenda**. Nommer `Interne`. Répéter pour `Public`.
 1. Pour chacun : passer la souris sur le nom → **⋮ → Paramètres et partage**.
 1. **Partager avec l’équipe** : section *Partager avec des personnes ou des groupes* → ajouter les courriels (ou l’adresse de groupe) → choisir le niveau (§4).
 1. **Rendre public** (calendrier `Public` seulement) : section *Autorisations d’accès aux événements* → cocher *Rendre disponible publiquement* → choisir *Voir tous les détails*.
@@ -128,14 +128,14 @@ Cinq phases, alternant interne et externe. Pour chacune : ce qu’on fait *dans 
 
 ### 1️⃣ Planification — **interne**
 
-- Créer l’événement sur **`Horizon — Interne`**, statut **provisoire** (*tentative*), en **hold** sur la date.
+- Créer l’événement sur **`Interne`**, statut **provisoire** (*tentative*), en **hold** sur la date.
 - Mettre la checklist des préparatifs dans la **description** (ou un lien vers un doc).
 - Inviter l’associé concerné. Visibilité **privée**.
 - Bloquer le **lieu / matériel** sur le calendrier ressource dès que la date est verrouillée.
 
 ### 2️⃣ Promotion — **externe**
 
-- Une fois **confirmé** : créer (ou copier) une version *propre* sur **`Horizon — Public`**.
+- Une fois **confirmé** : créer (ou copier) une version *propre* sur **`Public`**.
 - Titre clair, description publique, **visuel**, **lien d’inscription/billetterie**.
 - L’événement apparaît alors automatiquement sur le **site (iframe)** et via l’**URL publique** à partager sur les réseaux.
 - Utiliser le bouton *« Ajouter à l’agenda »* dans les publications pour que l’audience l’ajoute à son propre calendrier.
@@ -168,7 +168,7 @@ Cinq phases, alternant interne et externe. Pour chacune : ce qu’on fait *dans 
 
 ## 7. Checklist de démarrage
 
-- [ ] Créer les 2 calendriers Google (`Horizon — Interne`, `Horizon — Public`).
+- [ ] Créer les 2 calendriers Google (`Interne`, `Public`).
 - [ ] (Optionnel) Créer un calendrier par lieu/ressource.
 - [ ] Partager l’interne avec l’associé (*Modifier les événements*).
 - [ ] Rendre le calendrier public *Public → Voir tous les détails*, réservé à 1-2 éditeurs.

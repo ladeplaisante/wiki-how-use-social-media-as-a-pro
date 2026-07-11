@@ -1,4 +1,4 @@
-# Lier la page Facebook et Instagram de
+# Lier la page Facebook et Instagram
 
 **Objectif :** relier la page Facebook (déjà créée) à un compte Instagram professionnel du même nom, sans que les comptes partent de mon compte Meta perso, et sans que qui que ce soit ait accès à mes autres pages/comptes.
 
